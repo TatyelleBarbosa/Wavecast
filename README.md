@@ -18,4 +18,4 @@ Construida páginas complexas da web com grid container e grid item
 
 Criado elementos como cards, menus e barra de rolagem com grid
 
-[Acesse à pagina aqui](https://alura-plus-rho-rosy.vercel.app/)
+[Acesse à pagina aqui](https://wavecast-two.vercel.app/)
